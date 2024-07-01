@@ -468,7 +468,7 @@
     color: black;
 }
 
-.section__links_container button{git status
+.section__links_container button{
     background-color: black;
     border: none;
     width: 25px;
@@ -488,9 +488,9 @@
     justify-content: center;
 }
 
-.footer__section_logos{
+/* .footer__section_logos{
     width: 100%;
-}
+} */
 
 .disclamer{
     width: 95%;
